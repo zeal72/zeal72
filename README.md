@@ -1,3 +1,4 @@
+
 # Abraham Zeal — Frontend Developer
 
 I build fast, clean, and responsive web interfaces.
@@ -20,5 +21,5 @@ Check my pinned repositories below — each one has a live link.
 If you have a frontend project you need built right, reach out.
 
 📧 abrahamzeal72@gmail.com  
-💼 [Portfolio](abrahamzeal.vercel.app)  
-🔗 [LinkedIn]((https://www.linkedin.com/in/abraham-zeal-9bab2b2b7/))
+💼 [Portfolio]([https://your-portfolio-link.com](https://abrahamzeal.vercel.app/))  
+🔗 [LinkedIn] ([https://linkedin.com/in/your-link](https://www.linkedin.com/in/abraham-zeal-9bab2b2b7/))
