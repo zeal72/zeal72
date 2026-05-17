@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @zeal72
-- 👀 I’m interested in 
-- 🌱 I’m currently A Front End Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email:abrahamzeal72@gmail.com twitter: @zeal_abrah98107 facebook Abraham zeal...
-- 😄 Pronouns: Him, He...
-- ⚡ Fun fact: ...
+# Abraham Zeal — Frontend Developer
 
-<!---
-zeal72/zeal72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build fast, clean, and responsive web interfaces.
+Based in Nigeria · Available for freelance work.
+
+## Tech Stack
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React, Tailwind CSS
+- **Tools:** Git, GitHub, Figma, VS Code, Vercel
+
+## What I Do
+- Turn Figma designs into pixel-perfect, responsive UIs
+- Build performant single-page applications with React
+- Write clean, maintainable code that other developers can work with
+
+## Projects
+Check my pinned repositories below — each one has a live link.
+
+## Let's Work Together
+If you have a frontend project you need built right, reach out.
+
+📧 abrahamzeal72@gmail.com  
+💼 [Portfolio](abrahamzeal.vercel.app)  
+🔗 [LinkedIn](https://linkedin.com/in/your-link)
